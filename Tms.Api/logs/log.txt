@@ -1,0 +1,171 @@
+2025-08-24 18:58:36.398 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 18:58:36.465 +06:00 [INF] Creating key {9b1018ca-4a41-4c3f-981a-000de3fce37a} with creation date 2025-08-24 12:58:36Z, activation date 2025-08-24 12:58:36Z, and expiration date 2025-11-22 12:58:36Z.
+2025-08-24 18:58:36.472 +06:00 [INF] Writing data to file 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys\key-9b1018ca-4a41-4c3f-981a-000de3fce37a.xml'.
+2025-08-24 18:58:36.769 +06:00 [INF] Now listening on: https://localhost:7020
+2025-08-24 18:58:36.769 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 18:58:36.911 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 18:58:36.912 +06:00 [INF] Hosting environment: Development
+2025-08-24 18:58:36.912 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 18:59:47.864 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 18:59:48.154 +06:00 [INF] Now listening on: https://localhost:7020
+2025-08-24 18:59:48.155 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 18:59:48.284 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 18:59:48.284 +06:00 [INF] Hosting environment: Development
+2025-08-24 18:59:48.284 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:12:27.808 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:12:28.120 +06:00 [INF] Now listening on: https://localhost:7020
+2025-08-24 19:12:28.121 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:12:28.251 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:12:28.252 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:12:28.252 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:15:30.697 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:15:30.982 +06:00 [INF] Now listening on: https://localhost:7020
+2025-08-24 19:15:30.982 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:15:31.107 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:15:31.107 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:15:31.107 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:17:26.311 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:17:26.533 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:17:26.678 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:17:26.678 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:17:26.678 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:19:56.498 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger - null null
+2025-08-24 19:19:56.644 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger - 301 0 null 151.6683ms
+2025-08-24 19:19:56.650 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/index.html - null null
+2025-08-24 19:19:56.703 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/index.html - 200 null text/html;charset=utf-8 54.115ms
+2025-08-24 19:19:56.722 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/swagger-ui.css - null null
+2025-08-24 19:19:56.723 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/index.css - null null
+2025-08-24 19:19:56.789 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/swagger-ui-bundle.js - null null
+2025-08-24 19:19:56.821 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/swagger-ui-standalone-preset.js - null null
+2025-08-24 19:19:56.916 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/index.js - null null
+2025-08-24 19:19:56.945 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_vs/browserLink - null null
+2025-08-24 19:19:56.946 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/index.js - 200 null application/javascript;charset=utf-8 30.4754ms
+2025-08-24 19:19:56.946 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-24 19:19:56.948 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 1.8351ms
+2025-08-24 19:19:56.959 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/index.css - 200 202 text/css 236.4912ms
+2025-08-24 19:19:56.964 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/swagger-ui.css - 200 155175 text/css 242.2311ms
+2025-08-24 19:19:56.970 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 148.7669ms
+2025-08-24 19:19:56.970 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/swagger-ui-bundle.js - 200 1485750 text/javascript 181.1544ms
+2025-08-24 19:19:57.007 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.1482ms
+2025-08-24 19:19:57.080 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/favicon-32x32.png - null null
+2025-08-24 19:19:57.081 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/favicon-32x32.png - 200 628 image/png 1.0387ms
+2025-08-24 19:19:57.121 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - null null
+2025-08-24 19:19:57.227 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 106.3976ms
+2025-08-24 19:20:11.433 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/api/Tasks - null null
+2025-08-24 19:20:11.435 +06:00 [WRN] Failed to determine the https port for redirect.
+2025-08-24 19:20:22.567 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__2(JwtBearerOptions options) in D:\Dotnet\selise\TaskTeamManagement\Tms.Api\Program.cs:line 26
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c.<Get>b__10_0(String name, IOptionsFactory`1 factory)
+   at Microsoft.Extensions.Options.OptionsCache`1.<>c__DisplayClass3_1`1.<GetOrAdd>b__2()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-08-24 19:20:24.329 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/api/Tasks - 500 null text/plain; charset=utf-8 12896.6023ms
+2025-08-24 19:21:49.508 +06:00 [INF] Request starting HTTP/1.1 POST http://localhost:5103/api/Users - application/json 96
+2025-08-24 19:21:49.548 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__2(JwtBearerOptions options) in D:\Dotnet\selise\TaskTeamManagement\Tms.Api\Program.cs:line 26
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c.<Get>b__10_0(String name, IOptionsFactory`1 factory)
+   at Microsoft.Extensions.Options.OptionsCache`1.<>c__DisplayClass3_1`1.<GetOrAdd>b__2()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-08-24 19:22:06.600 +06:00 [INF] Request finished HTTP/1.1 POST http://localhost:5103/api/Users - 500 null text/plain; charset=utf-8 17091.6556ms
+2025-08-24 19:22:36.389 +06:00 [INF] Request starting HTTP/1.1 POST http://localhost:5103/api/Users - application/json 102
+2025-08-24 19:22:36.391 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__2(JwtBearerOptions options) in D:\Dotnet\selise\TaskTeamManagement\Tms.Api\Program.cs:line 26
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.<>c.<Get>b__10_0(String name, IOptionsFactory`1 factory)
+   at Microsoft.Extensions.Options.OptionsCache`1.<>c__DisplayClass3_1`1.<GetOrAdd>b__2()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-08-24 19:29:06.438 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:29:06.674 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:29:06.771 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:29:06.772 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:29:06.772 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:29:06.795 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-24 19:29:06.795 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_vs/browserLink - null null
+2025-08-24 19:29:06.805 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 14.9561ms
+2025-08-24 19:29:06.843 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.7096ms
+2025-08-24 19:29:06.875 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - null null
+2025-08-24 19:29:06.997 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 122.7409ms
+2025-08-24 19:29:10.583 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:29:10.838 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:29:10.959 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:29:10.959 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:29:10.959 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:34:55.034 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:34:55.247 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:34:55.343 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:34:55.343 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:34:55.343 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:35:00.003 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-24 19:35:00.003 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_vs/browserLink - null null
+2025-08-24 19:35:00.019 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 20.701ms
+2025-08-24 19:35:00.060 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.5459ms
+2025-08-24 19:35:00.106 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/favicon-32x32.png - null null
+2025-08-24 19:35:00.136 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - null null
+2025-08-24 19:35:00.173 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/favicon-32x32.png - 499 628 image/png 66.2422ms
+2025-08-24 19:35:00.255 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 119.0591ms
+2025-08-24 19:41:01.833 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 19:41:02.131 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 19:41:02.252 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 19:41:02.252 +06:00 [INF] Hosting environment: Development
+2025-08-24 19:41:02.252 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api
+2025-08-24 19:41:09.771 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/index.html - null null
+2025-08-24 19:41:09.926 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/index.html - 200 null text/html;charset=utf-8 159.348ms
+2025-08-24 19:41:09.939 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - null null
+2025-08-24 19:41:09.939 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/_vs/browserLink - null null
+2025-08-24 19:41:09.941 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_framework/aspnetcore-browser-refresh.js - 200 13766 application/javascript; charset=utf-8 2.2548ms
+2025-08-24 19:41:09.963 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.6272ms
+2025-08-24 19:41:10.053 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/favicon-32x32.png - null null
+2025-08-24 19:41:10.131 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - null null
+2025-08-24 19:41:10.187 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/favicon-32x32.png - 499 628 image/png 134.6074ms
+2025-08-24 19:41:10.271 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5103/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 179.0154ms
+2025-08-24 20:29:08.260 +06:00 [INF] User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-08-24 20:29:08.594 +06:00 [INF] Now listening on: http://localhost:5103
+2025-08-24 20:29:08.798 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-08-24 20:29:08.798 +06:00 [INF] Hosting environment: Development
+2025-08-24 20:29:08.798 +06:00 [INF] Content root path: D:\Dotnet\selise\TaskTeamManagement\Tms.Api

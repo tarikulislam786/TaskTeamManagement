@@ -1,0 +1,17 @@
+obj
+bin
+skinet.sln.DotSettings.user
+.vs/skinet/DesignTimeBuild/.dtbcache
+.vs/skinet/v15/.suo
+.vs/skinet/v15/Server/sqlite3/db.lock
+.vs/skinet/v15/Server/sqlite3/storage.ide
+.vs/skinet/v15/Server/sqlite3/storage.ide-shm
+.vs/skinet/v15/Server/sqlite3/storage.ide-wal
+API/appsettings.json
+*.db
+.vs/
+Infrastructure/Migrations/
+API/API.csproj.user
+Models/Models.csproj.user
+API/Properties/PublishProfiles/FolderProfile.pubxml
+API/Properties/PublishProfiles/FolderProfile.pubxml.user
